@@ -1,6 +1,6 @@
 local status = false
 local alreadyUsed = false
-local currentInteraction = true
+local currentInteraction = false
 local showHelpNotify = false
 local showHelpNotifySearch = false
 local entity = nil
